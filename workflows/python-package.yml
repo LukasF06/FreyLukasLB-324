@@ -2,8 +2,7 @@ name: Python package
 
 on:
   pull_request:
-    branches:
-      [as-somebody-i-want-to-make-a-new-issue-so-that-i-can-solve-this-exercise]
+    branches: [dev]
 
 jobs:
   test:
